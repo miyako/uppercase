@@ -11,6 +11,10 @@ layout: default
 
 #### Abstract
 
+The [method editor](https://developer.4d.com/docs/code-editor/write-class-method) has a standard [Changing case](https://developer.4d.com/docs/code-editor/write-class-method#changing-case) tool, but the conversion is case insensitive.
+
+This simple macro applies [Uppercase](https://developer.4d.com/docs/commands/uppercase) or [Lowercase](https://developer.4d.com/docs/commands/lowercase) to highlighted text.
+
 https://discuss.4d.com/t/uppercase-with-diacritics-in-method-editor/37575/7
 
 ![demo](/assets/demo.gif)
