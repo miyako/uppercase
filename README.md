@@ -1,0 +1,2 @@
+# uppercase
+Uppercase method macro
