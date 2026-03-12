@@ -12,3 +12,5 @@ layout: default
 #### Abstract
 
 https://discuss.4d.com/t/uppercase-with-diacritics-in-method-editor/37575/7
+
+[!demo](/assets/demo.gif)
