@@ -17,4 +17,4 @@ This simple macro applies [Uppercase](https://developer.4d.com/docs/commands/upp
 
 https://discuss.4d.com/t/uppercase-with-diacritics-in-method-editor/37575/7
 
-![demo](https://github.com/miyako/uppercase/raw/main/assets/demo.gif)
+![demo](https://raw.githubusercontent.com/miyako/uppercase/main/assets/demo.gif)
